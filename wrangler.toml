@@ -40,7 +40,7 @@ LOG_FORMAT = "json"
 NODE_ENV = "production"
 
 [[env.production.d1_databases]]
-binding = "katelyatv_db"
+binding = "katelyatv-db"
 database_name = "katelyatv-db"
 database_id = "03882102-9f5e-4c47-ad9d-3685e31eb77a"
 
