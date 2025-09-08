@@ -40,9 +40,9 @@ LOG_FORMAT = "json"
 NODE_ENV = "production"
 
 [[env.production.d1_databases]]
-binding = "DB"
+binding = "katelyatv_db"
 database_name = "katelyatv-db"
-database_id = "0e752882-dd95-4fe2-93a7-7049a715b268"
+database_id = "03882102-9f5e-4c47-ad9d-3685e31eb77a"
 
 [build]
 command = "pnpm pages:build"
